@@ -1,3 +1,5 @@
+This Repo shows a set of Jupyter Notebooks demonstrating a Convolutional Neural Network models I built to classify images for the Fashion MNIST dataset. It is a dataset of Zalando's article images — consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label …
+
 # Fashion-MNIST
 
 Here's an example how the data looks (*each class takes three-rows*):
